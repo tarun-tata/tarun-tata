@@ -1,7 +1,11 @@
 <h1 align="center">Tarun Tata</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1200&color=4B7BEC&center=true&vCenter=true&width=480&lines=AI+%26+ML+Engineer;Computer+Vision+%C2%B7+Explainable+AI;Debugging+code+%26+color-grading+videos" />
+  <b>AI & ML Engineer</b> &nbsp;·&nbsp; Computer Vision &nbsp;·&nbsp; Explainable AI
+</p>
+
+<p align="center">
+  <i>Debugging code & Color-grading videos, sometimes in the same day.</i>
 </p>
 
 <p align="center">
