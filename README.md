@@ -15,9 +15,6 @@
 
 ---
 
-
-### 🛠️ Stack
-
 <h3 align="center">🛠️ Stack</h3>
 
 <p align="center">
